@@ -15,15 +15,3 @@ This assignment involved me creating a project where a user would play a game si
 
 ### A5 - "Create an object-oriented validation class"
 This assignment involved me creating a project where a user would input an integer, double, string, and a specified string. While the user did this, my program would validate whether the response was the intended data type. If it wasn't the program would continue to ask the user to input a value till they inputted the correct data type. This focused in on validating data types, while using object oriented programming.
-
-### A6 - "Work with customer and employee data"
-This assignment involved me creating a project where a user would either input data for an employee or a customer, and the program would print out the information in a formatted form. This program validated user's response to ensure correct values were inputted, and this program inheritance, where a customer and employee class inherited the Person class.
-
-### A7 - "Count alligators and clone sheep"
-This assignment involved me creating a project where an Alligator class implements a Countable interface to display the number of Alligator objects. Along with this, the project has a Sheep class that implements the Countable interface and Cloneable interface as it displays the number of Sheep objects as well as clones it. The project involved both inheriting classes as well as extending interfaces. The focus of the project was inheritance.
-
-### A8 - "Calculate the monthly balances of two bank accounts"
-This assignment involved me creating a project where the user gets to view, deposit, or withdrawl into either their Checking account or Savings account. The user will then receive the monthly fees and payments for each account, and then be able to view the final balances of each account. This program hones in on inheritance, as it focuses on utilizing multiple interfaces, and having classes extend one another. Along with this, user input is validated throughout the program using a seperate validator class.
-
-
-
