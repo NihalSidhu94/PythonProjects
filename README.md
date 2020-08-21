@@ -15,3 +15,6 @@ This assignment involved me creating a project where a user would play a game si
 
 ### A5 - "Create an object-oriented validation class"
 This assignment involved me creating a project where a user would input an integer, double, string, and a specified string. While the user did this, my program would validate whether the response was the intended data type. If it wasn't the program would continue to ask the user to input a value till they inputted the correct data type. This focused in on validating data types, while using object oriented programming.
+
+### Assignment 6 - "Work with customer and employee data"
+This assignment involved me creating a project where a user would either input data for an employee or a customer, and the program would print out the information in a formatted form. This program validated user's response to ensure correct values were inputted, and this program inheritance, where a customer and employee class inherited the Person class.
