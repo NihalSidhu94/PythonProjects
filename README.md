@@ -18,3 +18,6 @@ This assignment involved me creating a project where a user would input an integ
 
 ### Assignment 6 - "Work with customer and employee data"
 This assignment involved me creating a project where a user would either input data for an employee or a customer, and the program would print out the information in a formatted form. This program validated user's response to ensure correct values were inputted, and this program inheritance, where a customer and employee class inherited the Person class.
+
+### Assignment 7 - "Count alligators and clone sheep"
+This assignment involved me creating a project where an Alligator class implements a Countable interface to display the number of Alligator objects. Along with this, the project has a Sheep class that implements the Countable interface and Cloneable interface as it displays the number of Sheep objects as well as clones it. The project involved both inheriting classes as well as extending interfaces. The focus of the project was inheritance.
